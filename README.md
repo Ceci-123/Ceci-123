@@ -10,9 +10,9 @@ const ceci = {
 
   pronouns: "she" | "her",
 
-  code: [Javascript, Typescript, HTML, CSS, Python, C, C#, PHP, Django, Kotlin],
+  code: [Javascript, Typescript, HTML, CSS, Python, C, C#, PHP, Kotlin],
 
-  tools: [React, Node, Figma],
+  tools: [React, Node, Figma, Django],
 
   skills: [Coding, Tester, UX design]
 
