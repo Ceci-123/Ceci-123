@@ -12,9 +12,9 @@ const ceci = {
 
   code: [Javascript, Typescript, HTML, CSS, Python, C, C#, PHP, Kotlin],
 
-  tools: [React, Node, Figma, Django],
+  tools: [React, Node JS, Figma, Django],
 
-  skills: [Coding, Tester, UX design]
+  skills: [Coding, Testing, UX design]
 
 }
 
