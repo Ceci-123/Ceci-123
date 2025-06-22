@@ -14,8 +14,9 @@ const ceci = {
 
   tools: [React, Node JS, Figma, Django],
 
-  skills: [Coding, Testing, UX design]
+  skills: [Coding, Testing, UX design],
 
+  super-skills: [Low Code, OutSystems]
 }
 
 ```
